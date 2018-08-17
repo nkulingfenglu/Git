@@ -30,7 +30,8 @@ MessageBox.Show("导入成功！");
 this.tabControl1.SelectedIndex = 1;
 
  5.从一个界面跳转到名称为form17的界面
-Form17  f17 = new Form17(
+Form17  f17 = new Form17()
+f17.Show()
 
  6.上传照片
 Bitmap myBig = new Bitmap(@"C:\Users\Administrator\Pictures\Camera Roll\QQ截图20180719092333.png");
