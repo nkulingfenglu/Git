@@ -1,5 +1,5 @@
 农科界面功能图：
-1.主界面：1000x1000 tab界面：930x910
+1.主界面：1000x1000 tab界面：950x940
 具体操作：
   1.保存为对话框空间
           SaveFileDialog ofd = new SaveFileDialog();
