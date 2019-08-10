@@ -41,6 +41,6 @@ Bitmap myBig = new Bitmap(@"C:\Users\Administrator\Pictures\Camera Roll\QQ截图
 textBox1.ReadOnly = true;
 
 
-
+2019年8月10日 学习git相关命令。
 
   
