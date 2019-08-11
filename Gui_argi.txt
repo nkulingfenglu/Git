@@ -43,4 +43,4 @@ textBox1.ReadOnly = true;
 
 
 
-  
+ Creating a new branch is quick. 
